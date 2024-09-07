@@ -1,8 +1,8 @@
 {
   "name": "neiyuankanmenren",
   "version": "0.0.1",
-  "description": "A VuePress project",
-  "license": "MIT",
+  "description": "内院看门人讲记, 问答等相关文档",
+  "license": "CC BY-NC-ND",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress build docs",
