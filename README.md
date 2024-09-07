@@ -21,6 +21,6 @@ pnpm docs:dev
 
 - [地藏菩萨本愿经讲记]()
 - [摄大乘论初分讲记]()
-- [十二门论讲记]()
+- [十二门论讲记](https://hs9t5hggzr.feishu.cn/docx/Tj8hd9rGvoGSKzxbpKicoVp6ntg?from=from_copylink)
 
 
