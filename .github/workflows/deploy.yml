@@ -41,6 +41,8 @@ jobs:
           cache: pnpm # 或 pnpm / yarn
       - name: Setup Pages
         uses: actions/configure-pages@v4
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Install dependencies
         run: pnpm ci # 或 pnpm install / yarn install / bun install
       - name: Build with VitePress
@@ -48,13 +50,14 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           path: docs/.vitepress/dist
 
   # 部署工作
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ secrets.PAGE_URL }}
     needs: build
     runs-on: ubuntu-latest
     name: Deploy
