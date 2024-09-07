@@ -43,6 +43,8 @@ jobs:
         uses: actions/configure-pages@v4
         with:
           enablement: true
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          url: ${{ secrets.PAGE_URL }}
       - name: Install dependencies
         run: pnpm ci # 或 pnpm install / yarn install / bun install
       - name: Build with VitePress
