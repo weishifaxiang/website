@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 title: Home
 heroImage: https://vuejs.press/images/hero.png
 actions:

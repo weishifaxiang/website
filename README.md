@@ -19,8 +19,11 @@ pnpm docs:dev
 
 文档公开地址如下:
 
-- [地藏菩萨本愿经讲记]()
-- [摄大乘论初分讲记]()
+- [地藏菩萨本愿经讲记 上](https://hs9t5hggzr.feishu.cn/docx/CUfJdRFO4oqQa9xTrD0cRR4Lnjf?from=from_copylink)
+- [地藏菩萨本愿经讲记 中](https://hs9t5hggzr.feishu.cn/docx/DduHdLblGoqvagxqd1KcIH4GnGd?from=from_copylink)
+- [地藏菩萨本愿经讲记 下](https://hs9t5hggzr.feishu.cn/docx/VrirdvgWmoU5RqxDYFrcpapinAb?from=from_copylink)
+- [摄大乘论初分讲记 上](https://hs9t5hggzr.feishu.cn/docx/Y3z5dWmTtopYtBxHYB4cc9ZEnsd?from=from_copylink)
+- [摄大乘论初分讲记 下](https://hs9t5hggzr.feishu.cn/docx/IfqYdEDPToxKFcxO0Lxct0SknOg?from=from_copylink)
 - [十二门论讲记](https://hs9t5hggzr.feishu.cn/docx/Tj8hd9rGvoGSKzxbpKicoVp6ntg?from=from_copylink)
 
 
