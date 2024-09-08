@@ -1905,24 +1905,3 @@ Juemao: 我们欲界众生一般以团食为主，欲界六根具足的众生都
 那么宇宙世界是客观存在的事物，必然如这支铅笔一样的是无穷无尽的，宇宙世界是依观察者的众生而建立，众生心如来藏而得建立的，那么众生也是无穷无尽的，诸佛普度众生以无尽入无尽，当然就是不增不减的，此其一也。
 
 再者，既然是因缘所生法，那么必然无自性，无自性故无本体，无本体故就是假有的，是假有的就实无众生可度，亦无能度，无可度能度当然就不增不减。
-
-<style>
-pre code {
-  white-space: pre-wrap !important;
-  counter-reset: step;
-  counter-increment: step 0;
-  margin-left: 40px;
-  min-width: calc(100% - 40px) !important;
-}
-
-.line::before {
-  content: counter(step);
-  counter-increment: step;
-  width: 2ch;
-  margin-right: 36px;
-  margin-left: calc(-36px - 2ch);
-  display: inline-block;
-  text-align: right;
-  color: var(--vp-code-line-number-color);
-}
-</style>
