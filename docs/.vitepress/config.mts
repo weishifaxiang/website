@@ -29,8 +29,16 @@ export default defineConfig({
             {
                 text: '问答',
                 items: [
-                    { text: '历史问答', link: '/answer/history.html' },
+                    { text: '历史问答', link: '/answer/history' },
                     { text: '每月问答', link: '/answer/month/' },
+                ],
+            },
+            {
+                text: '公众号',
+                items: [
+                    { text: '讲记', link: '/gongzhonghao/jiangji/' },
+                    { text: '问答', link: '/gongzhonghao/answer/' },
+                    { text: '公众号相关', link: '/gongzhonghao/self/' },
                 ],
             },
             { text: '联系我们', link: '/me/' },
@@ -83,6 +91,14 @@ export default defineConfig({
                 items: [
                     { text: '历史问答', link: '/answer/history' },
                     { text: '每月问答', link: '/answer/month/' },
+                ],
+            },
+            {
+                text: '公众号',
+                items: [
+                    { text: '讲记', link: '/gongzhonghao/jiangji/' },
+                    { text: '问答', link: '/gongzhonghao/answer/' },
+                    { text: '公众号相关', link: '/gongzhonghao/self/' },
                 ],
             },
             { text: '联系我们', link: '/me/' },
