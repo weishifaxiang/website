@@ -1,5 +1,7 @@
 # 内院看门人 相关文档
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/69a8e4df-225d-4004-99a3-6b64034d10f7/deploy-status)](https://app.netlify.com/sites/legendary-empanada-66e8ce/deploys)
+
 ## 项目运行
 
 ```bash
