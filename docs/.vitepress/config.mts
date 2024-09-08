@@ -2,7 +2,8 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: '唯识法相',
+    lang: 'zh-CN',
+    title: '内院看门人',
     description: '内院看门人讲记, 问答等相关文档',
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
@@ -100,7 +101,7 @@ export default defineConfig({
 
         editLink: {
             pattern:
-                'https://github.com/weishifaxiang/website/edit/main/docs/:path',
+                'https://github.com/weishifaxiang/website/edit/master/docs/:path',
         },
     },
     lastUpdated: true,
