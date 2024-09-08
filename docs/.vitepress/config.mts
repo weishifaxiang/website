@@ -133,7 +133,7 @@ export default defineConfig({
     },
     lastUpdated: true,
     sitemap: {
-        hostname: 'https://唯识法相.team',
+        hostname: 'https://weishifaxiang.cn',
         lastmodDateOnly: false,
     },
 });
