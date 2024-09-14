@@ -1,0 +1,13 @@
+{
+    "default": true,
+    "MD003": {},
+    "MD007": {
+        "indent": 4
+    },
+    "MD012": {
+        "maximum": 1
+    },
+    "MD013": {
+        "line_length": 8000
+    }
+}
