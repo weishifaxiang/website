@@ -104,6 +104,163 @@ export default defineConfig({
                     { text: '公众号相关', link: '/gongzhonghao/self/' },
                 ],
             },
+            {
+                text: '审核专用',
+                items: [
+                    {
+                        text: '地藏菩萨本愿经讲习',
+                        items: [
+                            {
+                                text: '1-10',
+                                items: [
+                                    {
+                                        text: '地藏经讲习 第 1 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/1',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 2 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/2',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 3 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/3',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 4 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/4',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 5 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/5',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 6 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/6',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 7 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/7',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 8 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/8',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 9 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/9',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 10 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/10/10',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '11-20',
+                                items: [
+                                    {
+                                        text: '地藏经讲习 第 11 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/11',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 12 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/12',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 13 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/13',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 14 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/14',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 15 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/15',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 16 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/16',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 17 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/17',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 18 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/18',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 19 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/19',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 20 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/20/20',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '21-30',
+                                items: [
+                                    {
+                                        text: '地藏经讲习 第 21 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/21',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 22 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/22',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 23 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/23',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 24 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/24',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 25 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/25',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 26 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/26',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 27 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/27',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 28 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/28',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 29 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/29',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 30 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/30/30',
+                                    },
+                                ],
+                            },
+                            // {
+                            //     text: '31-40',
+                            //     items: Array(10).map((_, index) => ({
+                            //         text: String(30 + index + 1),
+                            //         link: `/gongzhonghao/jiangji/dizangjing/${
+                            //             30 + 10
+                            //         }/${30 + index + 1}`,
+                            //     })),
+                            // },
+                        ],
+                    },
+                    // { text: '问答篇', link: '/gongzhonghao/answer/' },
+                    // { text: '十二门论讲记', link: '/gongzhonghao/jiangji/' },
+                ],
+                link: '/gongzhonghao/shenhe/',
+            },
             { text: '联系我们', link: '/me/' },
         ],
 
