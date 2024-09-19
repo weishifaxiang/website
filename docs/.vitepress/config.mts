@@ -245,6 +245,51 @@ export default defineConfig({
                                     },
                                 ],
                             },
+                            {
+                                text: '31-40',
+                                items: [
+                                    {
+                                        text: '地藏经讲习 第 31 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/31',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 32 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/32',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 33 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/33',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 34 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/34',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 35 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/35',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 36 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/36',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 37 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/37',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 38 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/38',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 39 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/39',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 40 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/40/40',
+                                    },
+                                ],
+                            },
                             // {
                             //     text: '31-40',
                             //     items: Array(10).map((_, index) => ({
