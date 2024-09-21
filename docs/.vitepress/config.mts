@@ -109,9 +109,11 @@ export default defineConfig({
                 items: [
                     {
                         text: '地藏菩萨本愿经讲习',
+                        collapsed: true,
                         items: [
                             {
                                 text: '1-10',
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 第 1 讲',
@@ -157,6 +159,7 @@ export default defineConfig({
                             },
                             {
                                 text: '11-20',
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 第 11 讲',
@@ -202,6 +205,7 @@ export default defineConfig({
                             },
                             {
                                 text: '21-30',
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 第 21 讲',
@@ -247,6 +251,7 @@ export default defineConfig({
                             },
                             {
                                 text: '31-40',
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 第 31 讲',
@@ -292,6 +297,7 @@ export default defineConfig({
                             },
                             {
                                 text: '41-50',
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 第 41 讲',
@@ -337,6 +343,7 @@ export default defineConfig({
                             },
                             {
                                 text: '51-60',
+                                collapsed: false,
                                 items: [
                                     {
                                         text: '地藏经讲习 第 51 讲',
