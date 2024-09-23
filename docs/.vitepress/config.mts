@@ -343,7 +343,7 @@ export default defineConfig({
                             },
                             {
                                 text: '51-60',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 第 51 讲',
@@ -384,6 +384,52 @@ export default defineConfig({
                                     {
                                         text: '地藏经讲习 第 60 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/60',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '61-70',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 第 61 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/61',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 62 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/62',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 63 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/63',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 64 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/64',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 65 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/65',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 66 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/66',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 67 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/67',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 68 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/68',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 69 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/69',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 70 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/70/70',
                                     },
                                 ],
                             },
