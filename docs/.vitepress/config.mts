@@ -481,7 +481,7 @@ export default defineConfig({
                             },
                             {
                                 text: '81-90',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 第 81 讲',
@@ -522,6 +522,52 @@ export default defineConfig({
                                     {
                                         text: '地藏经讲习 第 90 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/90',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '90-100',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 第 91 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/91',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 92 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/92',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 93 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/93',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 94 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/94',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 95 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/95',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 96 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/96',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 97 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/97',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 98 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/98',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 99 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/99',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 100 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/100/100',
                                     },
                                 ],
                             },
