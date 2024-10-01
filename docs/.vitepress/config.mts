@@ -573,7 +573,7 @@ export default defineConfig({
                             },
                             {
                                 text: '100-110',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 第 101 讲',
@@ -614,6 +614,52 @@ export default defineConfig({
                                     {
                                         text: '地藏经讲习 第 110 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/110',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '110-120',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 第 111 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/111',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 112 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/112',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 113 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/113',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 114 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/114',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 115 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/115',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 116 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/116',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 117 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/117',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 118 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/118',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 119 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/119',
+                                    },
+                                    {
+                                        text: '地藏经讲习 第 120 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/120/120',
                                     },
                                 ],
                             },
