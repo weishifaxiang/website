@@ -791,10 +791,6 @@ export default defineConfig({
                                         text: '地藏经讲习 上 第 148 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/149/148',
                                     },
-                                    {
-                                        text: '地藏经讲习 上 第 149 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/149/149',
-                                    },
                                 ],
                             },
                             // {
