@@ -108,7 +108,7 @@ export default defineConfig({
                 text: '审核专用',
                 items: [
                     {
-                        text: '地藏菩萨本愿经讲习',
+                        text: '地藏菩萨本愿经讲习 上',
                         collapsed: true,
                         items: [
                             {
@@ -116,43 +116,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 1 讲',
+                                        text: '地藏经讲习 上 第 1 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/1',
                                     },
                                     {
-                                        text: '地藏经讲习 第 2 讲',
+                                        text: '地藏经讲习 上 第 2 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/2',
                                     },
                                     {
-                                        text: '地藏经讲习 第 3 讲',
+                                        text: '地藏经讲习 上 第 3 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/3',
                                     },
                                     {
-                                        text: '地藏经讲习 第 4 讲',
+                                        text: '地藏经讲习 上 第 4 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/4',
                                     },
                                     {
-                                        text: '地藏经讲习 第 5 讲',
+                                        text: '地藏经讲习 上 第 5 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/5',
                                     },
                                     {
-                                        text: '地藏经讲习 第 6 讲',
+                                        text: '地藏经讲习 上 第 6 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/6',
                                     },
                                     {
-                                        text: '地藏经讲习 第 7 讲',
+                                        text: '地藏经讲习 上 第 7 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/7',
                                     },
                                     {
-                                        text: '地藏经讲习 第 8 讲',
+                                        text: '地藏经讲习 上 第 8 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/8',
                                     },
                                     {
-                                        text: '地藏经讲习 第 9 讲',
+                                        text: '地藏经讲习 上 第 9 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/9',
                                     },
                                     {
-                                        text: '地藏经讲习 第 10 讲',
+                                        text: '地藏经讲习 上 第 10 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/10/10',
                                     },
                                 ],
@@ -162,43 +162,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 11 讲',
+                                        text: '地藏经讲习 上 第 11 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/11',
                                     },
                                     {
-                                        text: '地藏经讲习 第 12 讲',
+                                        text: '地藏经讲习 上 第 12 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/12',
                                     },
                                     {
-                                        text: '地藏经讲习 第 13 讲',
+                                        text: '地藏经讲习 上 第 13 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/13',
                                     },
                                     {
-                                        text: '地藏经讲习 第 14 讲',
+                                        text: '地藏经讲习 上 第 14 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/14',
                                     },
                                     {
-                                        text: '地藏经讲习 第 15 讲',
+                                        text: '地藏经讲习 上 第 15 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/15',
                                     },
                                     {
-                                        text: '地藏经讲习 第 16 讲',
+                                        text: '地藏经讲习 上 第 16 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/16',
                                     },
                                     {
-                                        text: '地藏经讲习 第 17 讲',
+                                        text: '地藏经讲习 上 第 17 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/17',
                                     },
                                     {
-                                        text: '地藏经讲习 第 18 讲',
+                                        text: '地藏经讲习 上 第 18 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/18',
                                     },
                                     {
-                                        text: '地藏经讲习 第 19 讲',
+                                        text: '地藏经讲习 上 第 19 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/19',
                                     },
                                     {
-                                        text: '地藏经讲习 第 20 讲',
+                                        text: '地藏经讲习 上 第 20 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/20/20',
                                     },
                                 ],
@@ -208,43 +208,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 21 讲',
+                                        text: '地藏经讲习 上 第 21 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/21',
                                     },
                                     {
-                                        text: '地藏经讲习 第 22 讲',
+                                        text: '地藏经讲习 上 第 22 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/22',
                                     },
                                     {
-                                        text: '地藏经讲习 第 23 讲',
+                                        text: '地藏经讲习 上 第 23 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/23',
                                     },
                                     {
-                                        text: '地藏经讲习 第 24 讲',
+                                        text: '地藏经讲习 上 第 24 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/24',
                                     },
                                     {
-                                        text: '地藏经讲习 第 25 讲',
+                                        text: '地藏经讲习 上 第 25 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/25',
                                     },
                                     {
-                                        text: '地藏经讲习 第 26 讲',
+                                        text: '地藏经讲习 上 第 26 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/26',
                                     },
                                     {
-                                        text: '地藏经讲习 第 27 讲',
+                                        text: '地藏经讲习 上 第 27 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/27',
                                     },
                                     {
-                                        text: '地藏经讲习 第 28 讲',
+                                        text: '地藏经讲习 上 第 28 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/28',
                                     },
                                     {
-                                        text: '地藏经讲习 第 29 讲',
+                                        text: '地藏经讲习 上 第 29 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/29',
                                     },
                                     {
-                                        text: '地藏经讲习 第 30 讲',
+                                        text: '地藏经讲习 上 第 30 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/30/30',
                                     },
                                 ],
@@ -254,43 +254,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 31 讲',
+                                        text: '地藏经讲习 上 第 31 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/31',
                                     },
                                     {
-                                        text: '地藏经讲习 第 32 讲',
+                                        text: '地藏经讲习 上 第 32 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/32',
                                     },
                                     {
-                                        text: '地藏经讲习 第 33 讲',
+                                        text: '地藏经讲习 上 第 33 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/33',
                                     },
                                     {
-                                        text: '地藏经讲习 第 34 讲',
+                                        text: '地藏经讲习 上 第 34 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/34',
                                     },
                                     {
-                                        text: '地藏经讲习 第 35 讲',
+                                        text: '地藏经讲习 上 第 35 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/35',
                                     },
                                     {
-                                        text: '地藏经讲习 第 36 讲',
+                                        text: '地藏经讲习 上 第 36 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/36',
                                     },
                                     {
-                                        text: '地藏经讲习 第 37 讲',
+                                        text: '地藏经讲习 上 第 37 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/37',
                                     },
                                     {
-                                        text: '地藏经讲习 第 38 讲',
+                                        text: '地藏经讲习 上 第 38 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/38',
                                     },
                                     {
-                                        text: '地藏经讲习 第 39 讲',
+                                        text: '地藏经讲习 上 第 39 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/39',
                                     },
                                     {
-                                        text: '地藏经讲习 第 40 讲',
+                                        text: '地藏经讲习 上 第 40 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/40/40',
                                     },
                                 ],
@@ -300,43 +300,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 41 讲',
+                                        text: '地藏经讲习 上 第 41 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/41',
                                     },
                                     {
-                                        text: '地藏经讲习 第 42 讲',
+                                        text: '地藏经讲习 上 第 42 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/42',
                                     },
                                     {
-                                        text: '地藏经讲习 第 43 讲',
+                                        text: '地藏经讲习 上 第 43 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/43',
                                     },
                                     {
-                                        text: '地藏经讲习 第 44 讲',
+                                        text: '地藏经讲习 上 第 44 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/44',
                                     },
                                     {
-                                        text: '地藏经讲习 第 45 讲',
+                                        text: '地藏经讲习 上 第 45 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/45',
                                     },
                                     {
-                                        text: '地藏经讲习 第 46 讲',
+                                        text: '地藏经讲习 上 第 46 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/46',
                                     },
                                     {
-                                        text: '地藏经讲习 第 47 讲',
+                                        text: '地藏经讲习 上 第 47 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/47',
                                     },
                                     {
-                                        text: '地藏经讲习 第 48 讲',
+                                        text: '地藏经讲习 上 第 48 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/48',
                                     },
                                     {
-                                        text: '地藏经讲习 第 49 讲',
+                                        text: '地藏经讲习 上 第 49 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/49',
                                     },
                                     {
-                                        text: '地藏经讲习 第 50 讲',
+                                        text: '地藏经讲习 上 第 50 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/50/50',
                                     },
                                 ],
@@ -346,43 +346,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 51 讲',
+                                        text: '地藏经讲习 上 第 51 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/51',
                                     },
                                     {
-                                        text: '地藏经讲习 第 52 讲',
+                                        text: '地藏经讲习 上 第 52 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/52',
                                     },
                                     {
-                                        text: '地藏经讲习 第 53 讲',
+                                        text: '地藏经讲习 上 第 53 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/53',
                                     },
                                     {
-                                        text: '地藏经讲习 第 54 讲',
+                                        text: '地藏经讲习 上 第 54 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/54',
                                     },
                                     {
-                                        text: '地藏经讲习 第 55 讲',
+                                        text: '地藏经讲习 上 第 55 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/55',
                                     },
                                     {
-                                        text: '地藏经讲习 第 56 讲',
+                                        text: '地藏经讲习 上 第 56 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/56',
                                     },
                                     {
-                                        text: '地藏经讲习 第 57 讲',
+                                        text: '地藏经讲习 上 第 57 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/57',
                                     },
                                     {
-                                        text: '地藏经讲习 第 58 讲',
+                                        text: '地藏经讲习 上 第 58 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/58',
                                     },
                                     {
-                                        text: '地藏经讲习 第 59 讲',
+                                        text: '地藏经讲习 上 第 59 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/59',
                                     },
                                     {
-                                        text: '地藏经讲习 第 60 讲',
+                                        text: '地藏经讲习 上 第 60 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/60/60',
                                     },
                                 ],
@@ -392,43 +392,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 61 讲',
+                                        text: '地藏经讲习 上 第 61 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/61',
                                     },
                                     {
-                                        text: '地藏经讲习 第 62 讲',
+                                        text: '地藏经讲习 上 第 62 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/62',
                                     },
                                     {
-                                        text: '地藏经讲习 第 63 讲',
+                                        text: '地藏经讲习 上 第 63 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/63',
                                     },
                                     {
-                                        text: '地藏经讲习 第 64 讲',
+                                        text: '地藏经讲习 上 第 64 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/64',
                                     },
                                     {
-                                        text: '地藏经讲习 第 65 讲',
+                                        text: '地藏经讲习 上 第 65 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/65',
                                     },
                                     {
-                                        text: '地藏经讲习 第 66 讲',
+                                        text: '地藏经讲习 上 第 66 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/66',
                                     },
                                     {
-                                        text: '地藏经讲习 第 67 讲',
+                                        text: '地藏经讲习 上 第 67 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/67',
                                     },
                                     {
-                                        text: '地藏经讲习 第 68 讲',
+                                        text: '地藏经讲习 上 第 68 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/68',
                                     },
                                     {
-                                        text: '地藏经讲习 第 69 讲',
+                                        text: '地藏经讲习 上 第 69 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/69',
                                     },
                                     {
-                                        text: '地藏经讲习 第 70 讲',
+                                        text: '地藏经讲习 上 第 70 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/70/70',
                                     },
                                 ],
@@ -438,43 +438,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 71 讲',
+                                        text: '地藏经讲习 上 第 71 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/71',
                                     },
                                     {
-                                        text: '地藏经讲习 第 72 讲',
+                                        text: '地藏经讲习 上 第 72 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/72',
                                     },
                                     {
-                                        text: '地藏经讲习 第 73 讲',
+                                        text: '地藏经讲习 上 第 73 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/73',
                                     },
                                     {
-                                        text: '地藏经讲习 第 74 讲',
+                                        text: '地藏经讲习 上 第 74 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/74',
                                     },
                                     {
-                                        text: '地藏经讲习 第 75 讲',
+                                        text: '地藏经讲习 上 第 75 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/75',
                                     },
                                     {
-                                        text: '地藏经讲习 第 76 讲',
+                                        text: '地藏经讲习 上 第 76 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/76',
                                     },
                                     {
-                                        text: '地藏经讲习 第 77 讲',
+                                        text: '地藏经讲习 上 第 77 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/77',
                                     },
                                     {
-                                        text: '地藏经讲习 第 78 讲',
+                                        text: '地藏经讲习 上 第 78 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/78',
                                     },
                                     {
-                                        text: '地藏经讲习 第 79 讲',
+                                        text: '地藏经讲习 上 第 79 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/79',
                                     },
                                     {
-                                        text: '地藏经讲习 第 80 讲',
+                                        text: '地藏经讲习 上 第 80 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/80/80',
                                     },
                                 ],
@@ -484,43 +484,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 81 讲',
+                                        text: '地藏经讲习 上 第 81 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/81',
                                     },
                                     {
-                                        text: '地藏经讲习 第 82 讲',
+                                        text: '地藏经讲习 上 第 82 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/82',
                                     },
                                     {
-                                        text: '地藏经讲习 第 83 讲',
+                                        text: '地藏经讲习 上 第 83 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/83',
                                     },
                                     {
-                                        text: '地藏经讲习 第 84 讲',
+                                        text: '地藏经讲习 上 第 84 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/84',
                                     },
                                     {
-                                        text: '地藏经讲习 第 85 讲',
+                                        text: '地藏经讲习 上 第 85 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/85',
                                     },
                                     {
-                                        text: '地藏经讲习 第 86 讲',
+                                        text: '地藏经讲习 上 第 86 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/86',
                                     },
                                     {
-                                        text: '地藏经讲习 第 87 讲',
+                                        text: '地藏经讲习 上 第 87 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/87',
                                     },
                                     {
-                                        text: '地藏经讲习 第 88 讲',
+                                        text: '地藏经讲习 上 第 88 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/88',
                                     },
                                     {
-                                        text: '地藏经讲习 第 89 讲',
+                                        text: '地藏经讲习 上 第 89 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/89',
                                     },
                                     {
-                                        text: '地藏经讲习 第 90 讲',
+                                        text: '地藏经讲习 上 第 90 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/90/90',
                                     },
                                 ],
@@ -530,43 +530,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 91 讲',
+                                        text: '地藏经讲习 上 第 91 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/91',
                                     },
                                     {
-                                        text: '地藏经讲习 第 92 讲',
+                                        text: '地藏经讲习 上 第 92 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/92',
                                     },
                                     {
-                                        text: '地藏经讲习 第 93 讲',
+                                        text: '地藏经讲习 上 第 93 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/93',
                                     },
                                     {
-                                        text: '地藏经讲习 第 94 讲',
+                                        text: '地藏经讲习 上 第 94 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/94',
                                     },
                                     {
-                                        text: '地藏经讲习 第 95 讲',
+                                        text: '地藏经讲习 上 第 95 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/95',
                                     },
                                     {
-                                        text: '地藏经讲习 第 96 讲',
+                                        text: '地藏经讲习 上 第 96 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/96',
                                     },
                                     {
-                                        text: '地藏经讲习 第 97 讲',
+                                        text: '地藏经讲习 上 第 97 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/97',
                                     },
                                     {
-                                        text: '地藏经讲习 第 98 讲',
+                                        text: '地藏经讲习 上 第 98 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/98',
                                     },
                                     {
-                                        text: '地藏经讲习 第 99 讲',
+                                        text: '地藏经讲习 上 第 99 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/99',
                                     },
                                     {
-                                        text: '地藏经讲习 第 100 讲',
+                                        text: '地藏经讲习 上 第 100 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/100/100',
                                     },
                                 ],
@@ -576,43 +576,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 101 讲',
+                                        text: '地藏经讲习 上 第 101 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/101',
                                     },
                                     {
-                                        text: '地藏经讲习 第 102 讲',
+                                        text: '地藏经讲习 上 第 102 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/102',
                                     },
                                     {
-                                        text: '地藏经讲习 第 103 讲',
+                                        text: '地藏经讲习 上 第 103 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/103',
                                     },
                                     {
-                                        text: '地藏经讲习 第 104 讲',
+                                        text: '地藏经讲习 上 第 104 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/104',
                                     },
                                     {
-                                        text: '地藏经讲习 第 105 讲',
+                                        text: '地藏经讲习 上 第 105 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/105',
                                     },
                                     {
-                                        text: '地藏经讲习 第 106 讲',
+                                        text: '地藏经讲习 上 第 106 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/106',
                                     },
                                     {
-                                        text: '地藏经讲习 第 107 讲',
+                                        text: '地藏经讲习 上 第 107 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/107',
                                     },
                                     {
-                                        text: '地藏经讲习 第 108 讲',
+                                        text: '地藏经讲习 上 第 108 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/108',
                                     },
                                     {
-                                        text: '地藏经讲习 第 109 讲',
+                                        text: '地藏经讲习 上 第 109 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/109',
                                     },
                                     {
-                                        text: '地藏经讲习 第 110 讲',
+                                        text: '地藏经讲习 上 第 110 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/110/110',
                                     },
                                 ],
@@ -622,43 +622,43 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 111 讲',
+                                        text: '地藏经讲习 上 第 111 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/111',
                                     },
                                     {
-                                        text: '地藏经讲习 第 112 讲',
+                                        text: '地藏经讲习 上 第 112 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/112',
                                     },
                                     {
-                                        text: '地藏经讲习 第 113 讲',
+                                        text: '地藏经讲习 上 第 113 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/113',
                                     },
                                     {
-                                        text: '地藏经讲习 第 114 讲',
+                                        text: '地藏经讲习 上 第 114 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/114',
                                     },
                                     {
-                                        text: '地藏经讲习 第 115 讲',
+                                        text: '地藏经讲习 上 第 115 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/115',
                                     },
                                     {
-                                        text: '地藏经讲习 第 116 讲',
+                                        text: '地藏经讲习 上 第 116 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/116',
                                     },
                                     {
-                                        text: '地藏经讲习 第 117 讲',
+                                        text: '地藏经讲习 上 第 117 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/117',
                                     },
                                     {
-                                        text: '地藏经讲习 第 118 讲',
+                                        text: '地藏经讲习 上 第 118 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/118',
                                     },
                                     {
-                                        text: '地藏经讲习 第 119 讲',
+                                        text: '地藏经讲习 上 第 119 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/119',
                                     },
                                     {
-                                        text: '地藏经讲习 第 120 讲',
+                                        text: '地藏经讲习 上 第 120 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/120/120',
                                     },
                                 ],
@@ -668,90 +668,132 @@ export default defineConfig({
                                 collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 121 讲',
+                                        text: '地藏经讲习 上 第 121 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/121',
                                     },
                                     {
-                                        text: '地藏经讲习 第 122 讲',
+                                        text: '地藏经讲习 上 第 122 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/122',
                                     },
                                     {
-                                        text: '地藏经讲习 第 123 讲',
+                                        text: '地藏经讲习 上 第 123 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/123',
                                     },
                                     {
-                                        text: '地藏经讲习 第 124 讲',
+                                        text: '地藏经讲习 上 第 124 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/124',
                                     },
                                     {
-                                        text: '地藏经讲习 第 125 讲',
+                                        text: '地藏经讲习 上 第 125 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/125',
                                     },
                                     {
-                                        text: '地藏经讲习 第 126 讲',
+                                        text: '地藏经讲习 上 第 126 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/126',
                                     },
                                     {
-                                        text: '地藏经讲习 第 127 讲',
+                                        text: '地藏经讲习 上 第 127 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/127',
                                     },
                                     {
-                                        text: '地藏经讲习 第 128 讲',
+                                        text: '地藏经讲习 上 第 128 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/128',
                                     },
                                     {
-                                        text: '地藏经讲习 第 129 讲',
+                                        text: '地藏经讲习 上 第 129 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/129',
                                     },
                                     {
-                                        text: '地藏经讲习 第 130 讲',
+                                        text: '地藏经讲习 上 第 130 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/130/130',
                                     },
                                 ],
                             },
                             {
                                 text: '130-140',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
-                                        text: '地藏经讲习 第 131 讲',
+                                        text: '地藏经讲习 上 第 131 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/131',
                                     },
                                     {
-                                        text: '地藏经讲习 第 132 讲',
+                                        text: '地藏经讲习 上 第 132 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/132',
                                     },
                                     {
-                                        text: '地藏经讲习 第 133 讲',
+                                        text: '地藏经讲习 上 第 133 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/133',
                                     },
                                     {
-                                        text: '地藏经讲习 第 134 讲',
+                                        text: '地藏经讲习 上 第 134 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/134',
                                     },
                                     {
-                                        text: '地藏经讲习 第 135 讲',
+                                        text: '地藏经讲习 上 第 135 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/135',
                                     },
                                     {
-                                        text: '地藏经讲习 第 136 讲',
+                                        text: '地藏经讲习 上 第 136 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/136',
                                     },
                                     {
-                                        text: '地藏经讲习 第 137 讲',
+                                        text: '地藏经讲习 上 第 137 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/137',
                                     },
                                     {
-                                        text: '地藏经讲习 第 138 讲',
+                                        text: '地藏经讲习 上 第 138 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/138',
                                     },
                                     {
-                                        text: '地藏经讲习 第 139 讲',
+                                        text: '地藏经讲习 上 第 139 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/139',
                                     },
                                     {
-                                        text: '地藏经讲习 第 140 讲',
+                                        text: '地藏经讲习 上 第 140 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/140/140',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '140-149',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 上 第 141 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/149/141',
+                                    },
+                                    {
+                                        text: '地藏经讲习 上 第 142 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/149/142',
+                                    },
+                                    {
+                                        text: '地藏经讲习 上 第 143 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/149/143',
+                                    },
+                                    {
+                                        text: '地藏经讲习 上 第 144 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/149/144',
+                                    },
+                                    {
+                                        text: '地藏经讲习 上 第 145 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/149/145',
+                                    },
+                                    {
+                                        text: '地藏经讲习 上 第 146 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/149/146',
+                                    },
+                                    {
+                                        text: '地藏经讲习 上 第 147 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/149/147',
+                                    },
+                                    {
+                                        text: '地藏经讲习 上 第 148 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/149/148',
+                                    },
+                                    {
+                                        text: '地藏经讲习 上 第 149 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/149/149',
                                     },
                                 ],
                             },
