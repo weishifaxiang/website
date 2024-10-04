@@ -756,40 +756,40 @@ export default defineConfig({
                                 ],
                             },
                             {
-                                text: '140-149',
+                                text: '140-148',
                                 collapsed: false,
                                 items: [
                                     {
                                         text: '地藏经讲习 上 第 141 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/149/141',
+                                        link: '/gongzhonghao/jiangji/dizangjing/148/141',
                                     },
                                     {
                                         text: '地藏经讲习 上 第 142 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/149/142',
+                                        link: '/gongzhonghao/jiangji/dizangjing/148/142',
                                     },
                                     {
                                         text: '地藏经讲习 上 第 143 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/149/143',
+                                        link: '/gongzhonghao/jiangji/dizangjing/148/143',
                                     },
                                     {
                                         text: '地藏经讲习 上 第 144 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/149/144',
+                                        link: '/gongzhonghao/jiangji/dizangjing/148/144',
                                     },
                                     {
                                         text: '地藏经讲习 上 第 145 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/149/145',
+                                        link: '/gongzhonghao/jiangji/dizangjing/148/145',
                                     },
                                     {
                                         text: '地藏经讲习 上 第 146 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/149/146',
+                                        link: '/gongzhonghao/jiangji/dizangjing/148/146',
                                     },
                                     {
                                         text: '地藏经讲习 上 第 147 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/149/147',
+                                        link: '/gongzhonghao/jiangji/dizangjing/148/147',
                                     },
                                     {
                                         text: '地藏经讲习 上 第 148 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/149/148',
+                                        link: '/gongzhonghao/jiangji/dizangjing/148/148',
                                     },
                                 ],
                             },
