@@ -850,7 +850,7 @@ export default defineConfig({
                                     },
                                     {
                                         text: '地藏经讲习 中 第 10 讲',
-                                        link: '/gongzhonghao/jiangji/dizangjing/1middle/0/10',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/10',
                                     },
                                 ],
                             },
