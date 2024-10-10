@@ -757,7 +757,7 @@ export default defineConfig({
                             },
                             {
                                 text: '140-148',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 上 第 141 讲',
@@ -802,6 +802,58 @@ export default defineConfig({
                             //         }/${30 + index + 1}`,
                             //     })),
                             // },
+                        ],
+                    },
+                    {
+                        text: '地藏菩萨本愿经讲习 中',
+                        collapsed: false,
+                        items: [
+                            {
+                                text: '1-10',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 中 第 1 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/1',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 2 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/2',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 3 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/3',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 4 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/4',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 5 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/5',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 6 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/6',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 7 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/7',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 8 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/8',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 9 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/10/9',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 10 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/1middle/0/10',
+                                    },
+                                ],
+                            },
                         ],
                     },
                     // { text: '问答篇', link: '/gongzhonghao/answer/' },
