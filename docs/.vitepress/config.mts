@@ -856,7 +856,7 @@ export default defineConfig({
                             },
                             {
                                 text: '11-20',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 中 第 11 讲',
@@ -897,6 +897,52 @@ export default defineConfig({
                                     {
                                         text: '地藏经讲习 中 第 20 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/middle/20/20',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '21-30',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 中 第 21 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/21',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 22 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/22',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 23 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/23',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 24 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/24',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 25 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/25',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 26 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/26',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 27 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/27',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 28 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/28',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 29 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/29',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 30 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/30/30',
                                     },
                                 ],
                             },
