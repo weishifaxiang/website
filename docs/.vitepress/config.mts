@@ -948,7 +948,7 @@ export default defineConfig({
                             },
                             {
                                 text: '31-40',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 中 第 31 讲',
@@ -989,6 +989,52 @@ export default defineConfig({
                                     {
                                         text: '地藏经讲习 中 第 40 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/middle/40/40',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '41-50',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 中 第 41 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/41',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 42 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/42',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 43 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/43',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 44 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/44',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 45 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/45',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 46 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/46',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 47 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/47',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 48 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/48',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 49 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/49',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 50 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/50/50',
                                     },
                                 ],
                             },
