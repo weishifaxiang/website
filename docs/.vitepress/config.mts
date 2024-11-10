@@ -1132,7 +1132,7 @@ export default defineConfig({
                             },
                             {
                                 text: '71-80',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 中 第 71 讲',
@@ -1173,6 +1173,44 @@ export default defineConfig({
                                     {
                                         text: '地藏经讲习 中 第 80 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/middle/80/80',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '80-88',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 中 第 81 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/88/81',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 82 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/88/82',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 83 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/88/83',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 84 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/88/84',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 85 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/88/85',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 86 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/88/86',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 87 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/88/87',
+                                    },
+                                    {
+                                        text: '地藏经讲习 中 第 88 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/middle/88/88',
                                     },
                                 ],
                             },
