@@ -1222,7 +1222,7 @@ export default defineConfig({
                         items: [
                             {
                                 text: '1-10',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 下 第 1 讲',
@@ -1263,6 +1263,52 @@ export default defineConfig({
                                     {
                                         text: '地藏经讲习 下 第 10 讲',
                                         link: '/gongzhonghao/jiangji/dizangjing/lower/10/10',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '11-20',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 下 第 11 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/11',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 12 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/12',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 13 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/13',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 14 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/14',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 15 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/15',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 16 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/16',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 17 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/17',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 18 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/18',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 19 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/19',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 20 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/20/20',
                                     },
                                 ],
                             },
