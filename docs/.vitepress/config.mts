@@ -1498,7 +1498,7 @@ export default defineConfig({
                             },
                             {
                                 text: '61-70',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '地藏经讲习 下 第 61 讲',
@@ -1544,7 +1544,7 @@ export default defineConfig({
                             },
                             {
                                 text: '71-80',
-                                collapsed: true,
+                                collapsed: false,
                                 items: [
                                     {
                                         text: '地藏经讲习 下 第 71 讲',
