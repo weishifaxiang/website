@@ -1588,6 +1588,32 @@ export default defineConfig({
                                     },
                                 ],
                             },
+                            {
+                                text: '81-85',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '地藏经讲习 下 第 81 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/85/81',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 82 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/85/82',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 83 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/85/83',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 84 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/85/84',
+                                    },
+                                    {
+                                        text: '地藏经讲习 下 第 85 讲',
+                                        link: '/gongzhonghao/jiangji/dizangjing/lower/85/85',
+                                    },
+                                ],
+                            },
                         ],
                     },
                     // { text: '问答篇', link: '/gongzhonghao/answer/' },
