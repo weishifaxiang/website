@@ -41,7 +41,6 @@ export default defineConfig({
                 items: [
                     { text: '讲记', link: '/gongzhonghao/jiangji/' },
                     { text: '问答', link: '/gongzhonghao/answer/' },
-                    { text: '公众号相关', link: '/gongzhonghao/self/' },
                 ],
             },
             { text: '联系我们', link: '/me/' },
@@ -97,15 +96,7 @@ export default defineConfig({
                 ],
             },
             {
-                text: '公众号',
-                items: [
-                    { text: '讲记', link: '/gongzhonghao/jiangji/' },
-                    { text: '问答', link: '/gongzhonghao/answer/' },
-                    { text: '公众号相关', link: '/gongzhonghao/self/' },
-                ],
-            },
-            {
-                text: '审核专用',
+                text: '公众号讲记',
                 items: [
                     {
                         text: '地藏菩萨本愿经讲习 上',
@@ -1218,7 +1209,7 @@ export default defineConfig({
                     },
                     {
                         text: '地藏菩萨本愿经讲习 下',
-                        collapsed: false,
+                        collapsed: true,
                         items: [
                             {
                                 text: '1-10',
@@ -1617,7 +1608,58 @@ export default defineConfig({
                         ],
                     },
                     // { text: '问答篇', link: '/gongzhonghao/answer/' },
-                    // { text: '十二门论讲记', link: '/gongzhonghao/jiangji/' },
+                    {
+                        text: '十二门论讲记',
+                        collapsed: false,
+                        items: [
+                            {
+                                text: '1-10',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第一讲 开篇',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/1',
+                                    },
+                                    {
+                                        text: '第二讲 总论 上',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/2',
+                                    },
+                                    {
+                                        text: '第三讲 总论 中',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/3',
+                                    },
+                                    {
+                                        text: '第四讲 总论 下',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/4',
+                                    },
+                                    {
+                                        text: '第五讲 论文结构总述 一',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/5',
+                                    },
+                                    {
+                                        text: '第六讲 论文结构总述 二',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/6',
+                                    },
+                                    {
+                                        text: '第七讲 论文结构总述 三',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/7',
+                                    },
+                                    {
+                                        text: '第八讲 论文结构总述 四',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/8',
+                                    },
+                                    {
+                                        text: '第九讲 序分 上',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/9',
+                                    },
+                                    {
+                                        text: '第十讲 序分 中',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/10/10',
+                                    },
+                                ],
+                            },
+                        ],
+                    },
                 ],
                 link: '/gongzhonghao/shenhe/',
             },
