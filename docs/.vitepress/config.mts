@@ -1614,7 +1614,7 @@ export default defineConfig({
                         items: [
                             {
                                 text: '1-10',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第一讲 开篇',
@@ -1649,12 +1649,58 @@ export default defineConfig({
                                         link: '/gongzhonghao/jiangji/shiermenlun/10/8',
                                     },
                                     {
-                                        text: '第九讲 序分 上',
+                                        text: '第九讲 序分 一',
                                         link: '/gongzhonghao/jiangji/shiermenlun/10/9',
                                     },
                                     {
-                                        text: '第十讲 序分 中',
+                                        text: '第十讲 序分 二',
                                         link: '/gongzhonghao/jiangji/shiermenlun/10/10',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '11-20',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第十一讲 序分 三',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/11',
+                                    },
+                                    {
+                                        text: '第十二讲 序分 四',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/12',
+                                    },
+                                    {
+                                        text: '第十三讲 观因缘门 释题',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/13',
+                                    },
+                                    {
+                                        text: '第十四讲 观因缘门 因缘所生法',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/14',
+                                    },
+                                    {
+                                        text: '第十五讲 观因缘门 释偈',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/15',
+                                    },
+                                    {
+                                        text: '第十六讲 观因缘门 破四种妄执',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/16',
+                                    },
+                                    {
+                                        text: '第十七讲 观因缘门 通二谛之理',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/17',
+                                    },
+                                    {
+                                        text: '第十八讲 观因缘门 发观',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/18',
+                                    },
+                                    {
+                                        text: '第十九讲 观因缘门 略破内外二法',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/19',
+                                    },
+                                    {
+                                        text: '第二十讲 观因缘门 破外法明无生',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/20/20',
                                     },
                                 ],
                             },
