@@ -1752,7 +1752,7 @@ export default defineConfig({
                             },
                             {
                                 text: '31-40',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第三十一讲 观有果无果门 释因中先有果不生-因果不成门-前四破',
@@ -1793,6 +1793,52 @@ export default defineConfig({
                                     {
                                         text: '第四十讲 观缘门-略释及广释',
                                         link: '/gongzhonghao/jiangji/shiermenlun/40/40',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '41-50',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第四十一讲 观缘门-广释四缘',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/41',
+                                    },
+                                    {
+                                        text: '第四十二讲 观缘门-就缘求果无',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/42',
+                                    },
+                                    {
+                                        text: '第四十三讲 观缘门-举非缘决破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/43',
+                                    },
+                                    {
+                                        text: '第四十四讲 观缘门-结齐诸法',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/44',
+                                    },
+                                    {
+                                        text: '第四十五讲 观相门-释相',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/45',
+                                    },
+                                    {
+                                        text: '第四十六讲 观相门-释开观相门',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/46',
+                                    },
+                                    {
+                                        text: '第四十七讲 观相门-总破相-总明为无为无相',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/47',
+                                    },
+                                    {
+                                        text: '第四十八讲 观相门-总破相-释生住灭',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/48',
+                                    },
+                                    {
+                                        text: '第四十九讲 观相门-总破相-别明有为法无相',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/49',
+                                    },
+                                    {
+                                        text: '第五十讲 观相门-别破相-破展转家义',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/50/50',
                                     },
                                 ],
                             },
