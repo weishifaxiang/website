@@ -1706,7 +1706,7 @@ export default defineConfig({
                             },
                             {
                                 text: '21-30',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第二十一讲 观因缘门 破内法明无生',
@@ -1747,6 +1747,52 @@ export default defineConfig({
                                     {
                                         text: '第三十讲 观有果无果门 释因中先有果不生-果粗细门-后三破',
                                         link: '/gongzhonghao/jiangji/shiermenlun/30/30',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '31-40',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第三十一讲 观有果无果门 释因中先有果不生-因果不成门-前四破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/31',
+                                    },
+                                    {
+                                        text: '第三十二讲 观有果无果门 释因中先有果不生-异果门-前二破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/32',
+                                    },
+                                    {
+                                        text: '第三十三讲 观有果无果门 释因中先有果不生-异果门-后二破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/33',
+                                    },
+                                    {
+                                        text: '第三十四讲 观有果无果门 释因中先无果不生-正破-救破-破救前一',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/34',
+                                    },
+                                    {
+                                        text: '第三十五讲 观有果无果门 释因中先无果不生-正破-救破-破救中四',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/35',
+                                    },
+                                    {
+                                        text: '第三十六讲 观有果无果门 释因中先无果不生-正破-救破-破救后二',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/36',
+                                    },
+                                    {
+                                        text: '第三十七讲 观有果无果门 结齐诸法-有为无为人我皆空',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/37',
+                                    },
+                                    {
+                                        text: '第三十八讲 观缘门-释观缘门',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/38',
+                                    },
+                                    {
+                                        text: '第三十九讲 观缘门-长行发起',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/39',
+                                    },
+                                    {
+                                        text: '第四十讲 观缘门-略释及广释',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/40/40',
                                     },
                                 ],
                             },
