@@ -1798,7 +1798,7 @@ export default defineConfig({
                             },
                             {
                                 text: '41-50',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第四十一讲 观缘门-广释四缘',
@@ -1839,6 +1839,52 @@ export default defineConfig({
                                     {
                                         text: '第五十讲 观相门-别破相-破展转家义',
                                         link: '/gongzhonghao/jiangji/shiermenlun/50/50',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '51-60',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第五十一讲 观相门-别破相-破不展转家义',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/51',
+                                    },
+                                    {
+                                        text: '第五十二讲 观相门-破不展转家义-破譬说-后三破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/52',
+                                    },
+                                    {
+                                        text: '第五十三讲 观相门-破不展转家义-破法说',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/53',
+                                    },
+                                    {
+                                        text: '第五十四讲 观相门-结齐诸法',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/54',
+                                    },
+                                    {
+                                        text: '第五十五讲 观有相无相门-释观有相无相门',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/55',
+                                    },
+                                    {
+                                        text: '第五十六讲 观有相无相门-门体',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/56',
+                                    },
+                                    {
+                                        text: '第五十七讲 观有相无相门-结齐',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/57',
+                                    },
+                                    {
+                                        text: '第五十八讲 观一异门-释观一异门',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/58',
+                                    },
+                                    {
+                                        text: '第五十九讲 观一异门-释偈',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/59',
+                                    },
+                                    {
+                                        text: '第六十讲 观一异门-救破-略遮前破-相可相一',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/60/60',
                                     },
                                 ],
                             },
