@@ -1844,7 +1844,7 @@ export default defineConfig({
                             },
                             {
                                 text: '51-60',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第五十一讲 观相门-别破相-破不展转家义',
@@ -1885,6 +1885,52 @@ export default defineConfig({
                                     {
                                         text: '第六十讲 观一异门-救破-略遮前破-相可相一',
                                         link: '/gongzhonghao/jiangji/shiermenlun/60/60',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '61-70',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第六十一讲 观一异门-救破-相可相一-相可相亦一亦异',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/61',
+                                    },
+                                    {
+                                        text: '第六十二讲 观一异门-救破-结齐',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/62',
+                                    },
+                                    {
+                                        text: '第六十三讲 观一异门-破救-破相可相一-破相可相异',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/63',
+                                    },
+                                    {
+                                        text: '第六十四讲 观一异门-破救-破相可相亦一亦异',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/64',
+                                    },
+                                    {
+                                        text: '第六十五讲 观一异门-结破-结齐',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/65',
+                                    },
+                                    {
+                                        text: '第六十六讲 观有无门-释观有无',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/66',
+                                    },
+                                    {
+                                        text: '第六十七讲 观有无门-发起-偈文',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/67',
+                                    },
+                                    {
+                                        text: '第六十八讲 观有无门-救破-破救-以体同时用亦同时破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/68',
+                                    },
+                                    {
+                                        text: '第六十九讲 观有无门-破救-以用前后体亦前后破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/69',
+                                    },
+                                    {
+                                        text: '第七十讲 观有无门-以用前后体亦前后破-结齐',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/70/70',
                                     },
                                 ],
                             },
