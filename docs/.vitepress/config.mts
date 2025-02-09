@@ -1890,7 +1890,7 @@ export default defineConfig({
                             },
                             {
                                 text: '61-70',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第六十一讲 观一异门-救破-相可相一-相可相亦一亦异',
@@ -1931,6 +1931,52 @@ export default defineConfig({
                                     {
                                         text: '第七十讲 观有无门-以用前后体亦前后破-结齐',
                                         link: '/gongzhonghao/jiangji/shiermenlun/70/70',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '71-80',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第七十一讲 观性门-释观性门-性相',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/71',
+                                    },
+                                    {
+                                        text: '第七十二讲 观性门-释观性门-三自性',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/72',
+                                    },
+                                    {
+                                        text: '第七十三讲 观性门-释观性门-唯破不立',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/73',
+                                    },
+                                    {
+                                        text: '第七十四讲 观性门-生起',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/74',
+                                    },
+                                    {
+                                        text: '第七十五讲 观性门-偈本',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/75',
+                                    },
+                                    {
+                                        text: '第七十六讲 观性门-所破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/76',
+                                    },
+                                    {
+                                        text: '第七十七讲 观性门-三自性及三法印',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/77',
+                                    },
+                                    {
+                                        text: '第七十八讲 观性门-直释偈本',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/78',
+                                    },
+                                    {
+                                        text: '第七十九讲 观性门-外过内',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/79',
+                                    },
+                                    {
+                                        text: '第八十讲 观性门-内离过-免过',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/80/80',
                                     },
                                 ],
                             },
