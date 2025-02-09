@@ -1936,7 +1936,7 @@ export default defineConfig({
                             },
                             {
                                 text: '71-80',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第七十一讲 观性门-释观性门-性相',
@@ -1977,6 +1977,52 @@ export default defineConfig({
                                     {
                                         text: '第八十讲 观性门-内离过-免过',
                                         link: '/gongzhonghao/jiangji/shiermenlun/80/80',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '81-90',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第八十一讲 观性门-内离过-推过-约自性破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/81',
+                                    },
+                                    {
+                                        text: '第八十二讲 观性门-内离过-推过-约自性破-推无出世法过',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/82',
+                                    },
+                                    {
+                                        text: '第八十三讲 观性门-内离过-推过-约自性破-推无世间法过',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/83',
+                                    },
+                                    {
+                                        text: '第八十四讲 观性门-内离过-推过-约他性破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/84',
+                                    },
+                                    {
+                                        text: '第八十五讲 观性门-结齐',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/85',
+                                    },
+                                    {
+                                        text: '第八十六讲 观因果门-释观因果',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/86',
+                                    },
+                                    {
+                                        text: '第八十七讲 观因果门-偈释-结齐',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/87',
+                                    },
+                                    {
+                                        text: '第八十八讲 明無作品-观作者-释作者',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/88',
+                                    },
+                                    {
+                                        text: '第八十九讲 明無作品-观作者-偈释',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/89',
+                                    },
+                                    {
+                                        text: '第九十讲 明無作品-观作者-释偈本',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/90/90',
                                     },
                                 ],
                             },
