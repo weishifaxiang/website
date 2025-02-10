@@ -1982,7 +1982,7 @@ export default defineConfig({
                             },
                             {
                                 text: '81-90',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第八十一讲 观性门-内离过-推过-约自性破',
@@ -2023,6 +2023,52 @@ export default defineConfig({
                                     {
                                         text: '第九十讲 明無作品-观作者-释偈本',
                                         link: '/gongzhonghao/jiangji/shiermenlun/90/90',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '91-100',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第九十一讲 明无作品-观作者-释偈本',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/91',
+                                    },
+                                    {
+                                        text: '第九十二讲 明无作品-观作者-诤经意',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/92',
+                                    },
+                                    {
+                                        text: '第九十三讲 明无作品-观作者-正破外道',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/93',
+                                    },
+                                    {
+                                        text: '第九十四讲 明无作品-观作者-如来藏异于神我',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/94',
+                                    },
+                                    {
+                                        text: '第九十五讲 明无作品-观作者-神我',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/95',
+                                    },
+                                    {
+                                        text: '第九十六讲 明无作品-观作者-破他-破我他',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/96',
+                                    },
+                                    {
+                                        text: '第九十七讲 明无作品-观作者-破他-破自在天他',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/97',
+                                    },
+                                    {
+                                        text: '第九十八讲 明无作品-观作者-破他-破用',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/98',
+                                    },
+                                    {
+                                        text: '第九十九讲 明无作品-观作者-破他-破体-前二',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/99',
+                                    },
+                                    {
+                                        text: '第一百讲 明无作品-观作者-破他-破体-中二',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/100/100',
                                     },
                                 ],
                             },
