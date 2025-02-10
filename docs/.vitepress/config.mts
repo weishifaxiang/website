@@ -2013,15 +2013,15 @@ export default defineConfig({
                                         link: '/gongzhonghao/jiangji/shiermenlun/90/87',
                                     },
                                     {
-                                        text: '第八十八讲 明無作品-观作者-释作者',
+                                        text: '第八十八讲 观作者门-释作者',
                                         link: '/gongzhonghao/jiangji/shiermenlun/90/88',
                                     },
                                     {
-                                        text: '第八十九讲 明無作品-观作者-偈释',
+                                        text: '第八十九讲 观作者门-偈释',
                                         link: '/gongzhonghao/jiangji/shiermenlun/90/89',
                                     },
                                     {
-                                        text: '第九十讲 明無作品-观作者-释偈本',
+                                        text: '第九十讲 观作者门-释偈本',
                                         link: '/gongzhonghao/jiangji/shiermenlun/90/90',
                                     },
                                 ],
@@ -2031,43 +2031,43 @@ export default defineConfig({
                                 collapsed: false,
                                 items: [
                                     {
-                                        text: '第九十一讲 明无作品-观作者-释偈本',
+                                        text: '第九十一讲 观作者门-释偈本',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/91',
                                     },
                                     {
-                                        text: '第九十二讲 明无作品-观作者-诤经意',
+                                        text: '第九十二讲 观作者门-诤经意',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/92',
                                     },
                                     {
-                                        text: '第九十三讲 明无作品-观作者-正破外道',
+                                        text: '第九十三讲 观作者门-正破外道',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/93',
                                     },
                                     {
-                                        text: '第九十四讲 明无作品-观作者-如来藏异于神我',
+                                        text: '第九十四讲 观作者门-如来藏异于神我',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/94',
                                     },
                                     {
-                                        text: '第九十五讲 明无作品-观作者-神我',
+                                        text: '第九十五讲 观作者门-神我',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/95',
                                     },
                                     {
-                                        text: '第九十六讲 明无作品-观作者-破他-破我他',
+                                        text: '第九十六讲 观作者门-破他-破我他',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/96',
                                     },
                                     {
-                                        text: '第九十七讲 明无作品-观作者-破他-破自在天他',
+                                        text: '第九十七讲 观作者门-破他-破自在天他',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/97',
                                     },
                                     {
-                                        text: '第九十八讲 明无作品-观作者-破他-破用',
+                                        text: '第九十八讲 观作者门-破他-破用',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/98',
                                     },
                                     {
-                                        text: '第九十九讲 明无作品-观作者-破他-破体-前二',
+                                        text: '第九十九讲 观作者门-破他-破体-前二',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/99',
                                     },
                                     {
-                                        text: '第一百讲 明无作品-观作者-破他-破体-中二',
+                                        text: '第一百讲 观作者门-破他-破体-中二',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/100',
                                     },
                                 ],
