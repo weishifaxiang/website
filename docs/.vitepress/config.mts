@@ -2028,7 +2028,7 @@ export default defineConfig({
                             },
                             {
                                 text: '91-100',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第九十一讲 观作者门-释偈本',
@@ -2069,6 +2069,52 @@ export default defineConfig({
                                     {
                                         text: '第一百讲 观作者门-破他-破体-中二',
                                         link: '/gongzhonghao/jiangji/shiermenlun/100/100',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '101-110',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第一百零一讲 观作者门-破他-重破用-随业变破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/101',
+                                    },
+                                    {
+                                        text: '第一百零二讲 观作者门-破他-重破用-无罪福好丑破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/102',
+                                    },
+                                    {
+                                        text: '第一百零三讲 观作者门-破他-重破用-后三破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/103',
+                                    },
+                                    {
+                                        text: '第一百零四讲 观作者门-破他-重破体',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/104',
+                                    },
+                                    {
+                                        text: '第一百零五讲 观作者门-破他-结破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/105',
+                                    },
+                                    {
+                                        text: '第一百零六讲 观作者门-破共-破无因',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/106',
+                                    },
+                                    {
+                                        text: '第一百零七讲 观作者门-结齐',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/107',
+                                    },
+                                    {
+                                        text: '第一百零八讲 观三时门-释三时 上',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/108',
+                                    },
+                                    {
+                                        text: '第一百零九讲 观三时门-释三时 下',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/109',
+                                    },
+                                    {
+                                        text: '第一百一十讲 观三时门-释三时门',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/110/110',
                                     },
                                 ],
                             },
