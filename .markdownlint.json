@@ -9,5 +9,10 @@
     },
     "MD013": {
         "line_length": 8000
+    },
+    "MD033": {
+        "allowed_elements": [
+            "br"
+        ]
     }
 }
