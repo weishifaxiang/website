@@ -2120,7 +2120,7 @@ export default defineConfig({
                             },
                             {
                                 text: '111-120',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第一百一十一讲 观三时门-唱起',
@@ -2161,6 +2161,36 @@ export default defineConfig({
                                     {
                                         text: '第一百二十讲 观生门-偈释-破生时生',
                                         link: '/gongzhonghao/jiangji/shiermenlun/120/120',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '121-126',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第一百二十一讲 结分',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/126/121',
+                                    },
+                                    {
+                                        text: '第一百二十二讲 随问-十二门论总说及讲记缘起',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/126/122',
+                                    },
+                                    {
+                                        text: '第一百二十三讲 随问-为什么要学习般若',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/126/123',
+                                    },
+                                    {
+                                        text: '第一百二十四讲 随问-中观空与凡夫空',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/126/124',
+                                    },
+                                    {
+                                        text: '第一百二十五讲 随问-中观开悟与实证根本识',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/126/125',
+                                    },
+                                    {
+                                        text: '第一百二十六讲 随问-开悟与懂中观-讲记相关参考及皈敬回向',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/126/126',
                                     },
                                 ],
                             },
