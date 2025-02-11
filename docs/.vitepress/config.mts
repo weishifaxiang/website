@@ -2074,7 +2074,7 @@ export default defineConfig({
                             },
                             {
                                 text: '101-110',
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: '第一百零一讲 观作者门-破他-重破用-随业变破',
@@ -2115,6 +2115,52 @@ export default defineConfig({
                                     {
                                         text: '第一百一十讲 观三时门-释三时门',
                                         link: '/gongzhonghao/jiangji/shiermenlun/110/110',
+                                    },
+                                ],
+                            },
+                            {
+                                text: '111-120',
+                                collapsed: false,
+                                items: [
+                                    {
+                                        text: '第一百一十一讲 观三时门-唱起',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/111',
+                                    },
+                                    {
+                                        text: '第一百一十二讲 观三时门-偈释-正释偈本',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/112',
+                                    },
+                                    {
+                                        text: '第一百一十三讲 观三时门-偈释-内自免过',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/113',
+                                    },
+                                    {
+                                        text: '第一百一十四讲 观三时门-偈释-外更立法',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/114',
+                                    },
+                                    {
+                                        text: '第一百一十五讲 观三时门-偈释-内更破外',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/115',
+                                    },
+                                    {
+                                        text: '第一百一十六讲 观生门-释生门',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/116',
+                                    },
+                                    {
+                                        text: '第一百一十七讲 观生门-偈释-总明三时无生-破已生生',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/117',
+                                    },
+                                    {
+                                        text: '第一百一十八讲 观生门-偈释-破不生生-正破',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/118',
+                                    },
+                                    {
+                                        text: '第一百一十九讲 观生门-偈释-破不生生-救破-破救',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/119',
+                                    },
+                                    {
+                                        text: '第一百二十讲 观生门-偈释-破生时生',
+                                        link: '/gongzhonghao/jiangji/shiermenlun/120/120',
                                     },
                                 ],
                             },
