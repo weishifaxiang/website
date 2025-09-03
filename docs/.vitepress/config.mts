@@ -93,6 +93,7 @@ export default defineConfig({
                 items: [
                     { text: '历史问答', link: '/answer/history' },
                     { text: '每月问答', link: '/answer/month/' },
+                    { text: '每日问答', link: '/answer/day/' },
                 ],
             },
             {
