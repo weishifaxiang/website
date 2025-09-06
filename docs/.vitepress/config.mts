@@ -5,9 +5,7 @@ export default defineConfig({
     lang: 'zh-CN',
     title: '内院看门人',
     description: '内院看门人讲记, 问答等相关文档',
-    // head: [
-    //     ['meta', { name: 'baidu-site-verification', content: 'codeva-OQXduKwp0p' }]
-    // ],
+    head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
